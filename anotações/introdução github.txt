@@ -1,0 +1,9 @@
+como commitar arquivos para github
+ depois de ter colocadas as anotaçoes ou arquivos nas pastas
+de um "git status"
+ e depois de git add .
+
+depois no terminal git bash  git commmit -m "inclusão do curso de git/github"
+
+depois git push origin main
+
